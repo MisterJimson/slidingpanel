@@ -240,3 +240,17 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+src/Samples/Samples/obj/
+
+src/Samples/Samples/bin/
+
+src/DK\.SlidingPanel\.Interface/obj/
+
+src/DK\.SlidingPanel\.Interface/bin/
+
+src/Samples/Samples\.Droid/obj/
+
+src/Samples\.UI/obj/
+
+src/Samples\.UI/bin/
