@@ -21,7 +21,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>6.0</string>
+	<string>9.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>Samples</string>
 	<key>CFBundleIdentifier</key>
@@ -70,5 +70,7 @@
 	<false/>
 	<key>CFBundleShortVersionString</key>
 	<string></string>
+	<key>CFBundleName</key>
+	<string>Samples</string>
 </dict>
 </plist>
